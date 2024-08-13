@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1064898759252",
+    "project_id": "crime-reporting-app-62193",
+    "storage_bucket": "crime-reporting-app-62193.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064898759252:android:b7e1df97e1efc96f31bbc1",
+        "android_client_info": {
+          "package_name": "com.example.suraksha3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-eJb1xQziXoZfgO1uPtw0Qsxf0RWaA84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
